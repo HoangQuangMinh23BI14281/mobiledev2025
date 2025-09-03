@@ -1,6 +1,6 @@
 USTH ICT Android Development 2025
 ========================================
 
-* **Your ID**
-* **Your name**
-* **Your class**
+* **23BI14281**
+* **Hoàng Quang Minh**
+* **ICT Class 2**
